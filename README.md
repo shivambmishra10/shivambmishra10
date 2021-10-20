@@ -11,7 +11,7 @@
 - 💬 Ask me about **node and DSA**
 
 - 📫 How to reach me **shivambmishra10**
-- ⚡ Fun fact: **I love to watch movies and playing football**
+- ⚡ Fun fact: **I love to watch cricket and play table-tennnis**
 <hr>
 
 
