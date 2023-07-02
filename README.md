@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shivam mishra! Great to see you here!</h1>
-<h3 align="center">A passionate CSE Student and a Full Stack Developer.</h3>
+<h3 align="center">A passionate CSE Student and a Problem Solver.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivambmishra10&label=Profile%20views&color=0e75b6&style=flat" alt="shivambmishra10" /> </p>
 ### 👨‍🎓 &nbsp;About Me
-- 🔭 I’m currently looking for an **internship in Software Development**
-- 🌱 I’m currently learning **MERN Stack** <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambmishra10&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="shivambmishra10" /></p>
+- 🔭 I’m currently looking for an **placement in Software Development**
+- 🌱 I’m currently learning **System Design** <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambmishra10&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="shivambmishra10" /></p>
 - 👯 I’m looking to collaborate with **other Software Developers**
-- 🥅 2021 Goals: **Contribute more to Open Source projects**
+- 🥅 2023 Goals: **Contribute more to Open Source projects**
 - 👨‍💻 All of my projects are available at [https://github.com/shivambmishra10](https://github.com/shivambmishra10)
 
 - 💬 Ask me about **node and DSA**
 
 - 📫 How to reach me **shivambmishra10**
-- ⚡ Fun fact: **I love to watch cricket and play table-tennnis**
+- ⚡ Fun fact: **Everyone thinks my life is boring, but it's incredibly exciting.**
 <hr>
 
 
@@ -26,13 +26,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-
+![Java](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
 ### Databases & Framework :
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Springboot](https://img.shields.io/badge/Springboot-CB3837?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Cloud Tools :
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,7 +45,9 @@
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-orange?style=for-the-badge&logo=googleCloud&logoColor=white)
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-blue?style=for-the-badge&logo=DeepLearning&logoColor=white)
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-pink?style=for-the-badge&logo=MachineLearning&logoColor=white)
-
+![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 <hr/>
 
 ### 📈 GitHub Stats:
