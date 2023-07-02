@@ -47,7 +47,8 @@
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-pink?style=for-the-badge&logo=MachineLearning&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=aws&logoColor=white)
 <hr/>
 
 ### 📈 GitHub Stats:
